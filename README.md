@@ -1,4 +1,4 @@
-# YandexPracticum
+# YandexPracticum projects
 
 ## Описание проектов
 
